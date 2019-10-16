@@ -7,3 +7,5 @@
 /hospital-data.csv
 /outcome-of-care-measures.csv
 /Rprof.out
+*.xls
+*.xlsx
