@@ -2,7 +2,7 @@
 library("tidyverse")
 library("httr")
 library("stringi")
-# Q1
+# Q1 - I'm bored...
 # "created_at": "2013-11-07T13:25:07Z"
 # Q2
 library("sqldf")
