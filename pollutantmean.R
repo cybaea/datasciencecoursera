@@ -1,3 +1,4 @@
+## Three different solutions
 pollutantmean_base <- function(directory, pollutant, id = 1:332) {
   files <- dir(directory, pattern = "*.csv")
   paths <- file.path(directory, files)
